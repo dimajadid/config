@@ -1,1 +1,198 @@
 
+{
+  "GuideData": {
+    "AdsController": [
+      {
+        "NetworkAds": "facebook",
+        "AdMobId": "pub-3940256099942544",
+
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+        "BannerFacebook": "845346306193670_845347019526932",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782"
+
+      }
+    ],
+   
+    "items": [
+      {
+        "title": "Lorem ipsum dolor sit amet",
+        "image": "https://play-lh.googleusercontent.com/BtOTHuRkeCBsP_gqULiCNSnEsuBGvROnE68i4YkxSFBBjjF0UNvI4R8eltP6OJzIPF4=w720-h310-rw"
+      },
+      {
+        "title": " consectetur adipiscing elit",
+        "image": "https://play-lh.googleusercontent.com/kFq_YNC8YhLoZfa62HbF2A-7f6F2dgt8RqjpXlgHhsciRCqrq4bMX9tmkpBXWc9ckw=w720-h310-rw"
+      },
+      {
+        "title": "sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "image": "https://placekitten.com/70/73"
+      },
+      {
+        "title": "Lorem ipsum dolor sit amet",
+        "image": "https://play-lh.googleusercontent.com/VZYNV01QnuI3A7rkT7Gst_Ls-bRnf1NTctUztCeVeBcaVMr1lzkdIQKI2KHGlyJqYqU=w720-h310-rw"
+      },
+      {
+        "title": " consectetur adipiscing elit",
+        "image": "https://play-lh.googleusercontent.com/AaQEfOH4VlBTbTjo8p_7UMg-eJr_wvaNxRz4xHlKf6lw8Mn1re-qIpYSnjwt-6btAOE"
+      },
+      {
+        "title": "sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "image": "https://play-lh.googleusercontent.com/BtOTHuRkeCBsP_gqULiCNSnEsuBGvROnE68i4YkxSFBBjjF0UNvI4R8eltP6OJzIPF4=w720-h310-rw"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#000000","style": "bold",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Lorem ipsum dolor sit amet",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#000000","style": "normal",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://placekitten.com/350/250",
+        "text": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "isNative": "true"
+      }
+    ],
+
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#000000","style": "bold",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Lorem ipsum dolor sit amet",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#000000","style": "normal",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://placekitten.com/350/251",
+        "text": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "isNative": "true"
+      }
+    ],
+
+    "conten3": [
+      {
+        "ordered": "image_text",
+        "color": "#000000","style": "bold",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Lorem ipsum dolor sit amet",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#000000","style": "normal",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://placekitten.com/350/252",
+        "text": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "isNative": "true"
+      }
+    ],
+
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#000000","style": "bold",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Lorem ipsum dolor sit amet",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#000000","style": "normal",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://placekitten.com/350/253",
+        "text": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "isNative": "true"
+      }
+    ],
+
+    "content5": [
+      {
+        "ordered": "image_text",
+        "color": "#000000","style": "bold",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Lorem ipsum dolor sit amet",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#000000","style": "normal",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://placekitten.com/350/254",
+        "text": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "isNative": "true"
+      }
+    ],
+
+    "content6": [
+      {
+        "ordered": "image_text",
+        "color": "#000000","style": "bold",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Lorem ipsum dolor sit amet",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#000000","style": "normal",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://placekitten.com/350/255",
+        "text": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "isNative": "true"
+      }
+    ]
+
+  }
+}
