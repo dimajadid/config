@@ -16,32 +16,29 @@
 
       }
     ],
-   
+  
     "items": [
       {
-        "title": "Lorem ipsum dolor sit amet",
-        "image": "https://play-lh.googleusercontent.com/BtOTHuRkeCBsP_gqULiCNSnEsuBGvROnE68i4YkxSFBBjjF0UNvI4R8eltP6OJzIPF4=w720-h310-rw"
+        "title": "Friday Night Funkin Tips 1",
+        "image": "https://play-lh.googleusercontent.com/aWAxwqXU6COyQnGw4HA2sp0K6X8EDJqs87sWDsRLDN6h22i8lqMwR0K8VvfuO3sS2A=s180-rw"
       },
       {
-        "title": " consectetur adipiscing elit",
-        "image": "https://play-lh.googleusercontent.com/kFq_YNC8YhLoZfa62HbF2A-7f6F2dgt8RqjpXlgHhsciRCqrq4bMX9tmkpBXWc9ckw=w720-h310-rw"
+        "title": " Friday Night Funkin Tips 2",
+        "image": "https://play-lh.googleusercontent.com/aWAxwqXU6COyQnGw4HA2sp0K6X8EDJqs87sWDsRLDN6h22i8lqMwR0K8VvfuO3sS2A=s180-rw"
       },
       {
-        "title": "sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-        "image": "https://placekitten.com/70/73"
+        "title": "Friday Night Funkin Tips 3 ",
+        "image": "https://play-lh.googleusercontent.com/aWAxwqXU6COyQnGw4HA2sp0K6X8EDJqs87sWDsRLDN6h22i8lqMwR0K8VvfuO3sS2A=s180-rw"
       },
       {
-        "title": "Lorem ipsum dolor sit amet",
-        "image": "https://play-lh.googleusercontent.com/VZYNV01QnuI3A7rkT7Gst_Ls-bRnf1NTctUztCeVeBcaVMr1lzkdIQKI2KHGlyJqYqU=w720-h310-rw"
+        "title": "Friday Night Funkin Tips 4 ",
+        "image": "https://play-lh.googleusercontent.com/aWAxwqXU6COyQnGw4HA2sp0K6X8EDJqs87sWDsRLDN6h22i8lqMwR0K8VvfuO3sS2A=s180-rw"
       },
       {
-        "title": " consectetur adipiscing elit",
-        "image": "https://play-lh.googleusercontent.com/AaQEfOH4VlBTbTjo8p_7UMg-eJr_wvaNxRz4xHlKf6lw8Mn1re-qIpYSnjwt-6btAOE"
-      },
-      {
-        "title": "sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-        "image": "https://play-lh.googleusercontent.com/BtOTHuRkeCBsP_gqULiCNSnEsuBGvROnE68i4YkxSFBBjjF0UNvI4R8eltP6OJzIPF4=w720-h310-rw"
+        "title": " Friday Night Funkin Tips 5 ",
+        "image": "https://play-lh.googleusercontent.com/aWAxwqXU6COyQnGw4HA2sp0K6X8EDJqs87sWDsRLDN6h22i8lqMwR0K8VvfuO3sS2A=s180-rw"
       }
+  
     ],
 
     "content1": [
@@ -53,8 +50,8 @@
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "Lorem ipsum dolor sit amet",
-        "isNative": "false"
+        "text": "Friday Night Funkin",
+        "isNative": "true"
       },
       {
         "ordered": "image_text",
@@ -63,8 +60,8 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://placekitten.com/350/250",
-        "text": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "image_link": "",
+        "text": "While many may look and seem downright primitive today, games and animations using Adobe Flash were excellent ways for amateur artists and game programmers to share their work. many of these games also carry a zeitgeist which is quintessentially early-mid 2000s. Thick black character outlines, super-deformed characters or animated stick figures, gratuitous blood and gore, and more edge than a pile of razors were the norm. It was free, it was fun, it was a little crass, and it was glorious. Enter Friday Night Funkin.",
         "isNative": "true"
       }
     ],
@@ -78,7 +75,7 @@
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "Lorem ipsum dolor sit amet",
+        "text": "Friday Night Funkin",
         "isNative": "false"
       },
       {
@@ -88,13 +85,13 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://placekitten.com/350/251",
-        "text": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "image_link": "",
+        "text": "With the shuttering of Flash late last year, many thought these hallmarks of the past would be gone forever. Despite efforts to preserve them, many pieces of Flash media may become permanently lost to time. Newgrounds is no longer the Flash media giant it once was, with a small-but-dedicated userbase remaining. Many game development hopefuls have moved on to sites such as Github and itch.io, which offer easy access to thousands of game demos, prototypes, and even full releases.",
         "isNative": "true"
       }
     ],
 
-    "conten3": [
+    "content3": [
       {
         "ordered": "image_text",
         "color": "#000000","style": "bold",
@@ -103,8 +100,8 @@
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "Lorem ipsum dolor sit amet",
-        "isNative": "false"
+        "text": "Friday Night Funkin",
+        "isNative": "true"
       },
       {
         "ordered": "image_text",
@@ -113,9 +110,9 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://placekitten.com/350/252",
-        "text": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "isNative": "true"
+        "image_link": "",
+        "text": "So where does Friday Night Funkin' come into the mix? At first glance, it seems to be a charming Flash-based rhythm game very reminiscent of Dance Dance Revolution: just press the arrow keys in time with the song. Though it retains a Flash game charm and aesthetic, Friday Night Funkin' does use a more advanced and modern framework. Designed and developed using the flexible and versatile OpenFL and Haxe, Friday Night Funkin' was a submission to Ludum Dare 47. The theme of that particular Ludum Dare was Stuck in a Loop. While Friday Night Funkin' didn't win any category, the team decided to continue to expand on the concept.",
+        "isNative": "false"
       }
     ],
 
@@ -128,7 +125,7 @@
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "Lorem ipsum dolor sit amet",
+        "text": "Friday Night Funkin",
         "isNative": "false"
       },
       {
@@ -138,8 +135,8 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://placekitten.com/350/253",
-        "text": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "image_link": "",
+        "text": "The story is quite simple: The Boyfriend and his Girlfriend are dating, and the Girlfriend's father finds out. As an ex-rockstar he challenges the Boyfriend to a musical battle. The Father sings for a bit, then the Boyfriend repeats it. This is the pattern for just about every song, though there are times the player harmonizes with their opponent instead. Three songs comprise Week 1, with the Boyfriend emerging victorious over the Father and earning his approval.",
         "isNative": "true"
       }
     ],
@@ -153,8 +150,8 @@
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "Lorem ipsum dolor sit amet",
-        "isNative": "false"
+        "text": "Friday Night Funkin",
+        "isNative": "true"
       },
       {
         "ordered": "image_text",
@@ -163,13 +160,12 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://placekitten.com/350/254",
-        "text": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "isNative": "true"
+        "image_link": "",
+        "text": "The next two weeks feature collaborations. Week 2 brings two new songs and a crossover with the Skid and Pump from Sr. Pelo's Spooky Month series. Week 3 adds three more songs and includes Newgrounds mascot Pico (of Tom Fulp's Pico's School Flash games). So far, however, these seem to just be breaks from the main plot.",
+        "isNative": "false"
       }
     ],
-
-    "content6": [
+     "content6": [
       {
         "ordered": "image_text",
         "color": "#000000","style": "bold",
@@ -178,7 +174,32 @@
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "Lorem ipsum dolor sit amet",
+        "text": "Friday Night Funkin",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#000000","style": "normal",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "In Week 4, Mother gets involved. With a wild mane of brunette hair, a form-fitting red dress, and a dark coat, she seems to be cut from the same cloth as her husband. Her tracks are high-energy, note-dense jams that get you fired up. If the Father wanted to kill the Boyfriend, the Mother seems to be having a good time testing him. Evidently satisfied by the end of the week, she relents for the moment, but the conversation isn't over.",
+
+        "isNative": "false"
+      }
+    ],
+     "content7": [
+      {
+        "ordered": "image_text",
+        "color": "#000000","style": "bold",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Friday Night Funkin",
         "isNative": "false"
       },
       {
@@ -188,8 +209,32 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://placekitten.com/350/255",
-        "text": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "image_link": "",
+        "text": "When Week 5 rolls around, the Mother and Father hold a mall Santa hostage and challenge the Boyfriend together. Two Christmas-themed songs ensue before things start to go wrong. A lemon-headed monster originally hidden in the code makes its first official appearance in Winter Horrorland, hijacking the battle. After (possibly) murdering everyone in the mall, he challenges the Boyfriend, intent on eating him and the Girlfriend for Christmas dinner!",
+        "isNative": "true"
+      }
+    ],
+     "content8": [
+      {
+        "ordered": "image_text",
+        "color": "#000000","style": "bold",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Friday Night Funkin",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#000000","style": "normal",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Part of the appeal of Friday Night Funkin' seems to stem from how perfectly it captures that feel of a difficult Flash game. While most anyone can probably handle Week 1 with minimal trouble, later songs will require several restarts to get the rhythm and muscle memory down. Week 4's final song, M.I.L.F., is a chaotic frenzy as you attempt to keep up with the Mother's vocal barrage. There are plenty of little touches, as well, such as how the Girlfriend will bob her head in time to the music, making her something of a silent, vibing metronome.",
         "isNative": "true"
       }
     ]
