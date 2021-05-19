@@ -2,7 +2,7 @@
   "config": {
     "version": "3.0.4",
     "ads": {
-      "enabled": true,
+      "enabled": false,
       "mode_ads_banner": "admob",
       "mode_ads_interstitial": "admob",
       "mode_ads_native": "admob",
@@ -55,7 +55,7 @@
       "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
       "link": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
       "loader": {
-        "enabled": true,
+        "enabled": false,
         "duration": 4000
       }
     },
@@ -72,12 +72,12 @@
     },
     "activities": {
       "splash": {
-        "duration": 5000
+        "duration": 4000
       },
       "start": {
-        "enabled": true,
+        "enabled": false,
         "loader": {
-          "enabled": true,
+          "enabled": false,
           "duration": 4000
         }
       },
@@ -90,7 +90,7 @@
           "_comment": "type = image, text, card",
           "type": "card",
           "loader": {
-            "enabled": true,
+            "enabled": false,
             "duration": 4000
           }
         }
