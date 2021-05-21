@@ -78,7 +78,7 @@
         "enabled": true,
         "loader": {
           "enabled": true,
-          "duration": 4000
+          "duration": 5000
         }
       },
       "main": {
@@ -91,7 +91,7 @@
           "type": "card",
           "loader": {
             "enabled": true,
-            "duration": 4000
+            "duration": 5000
           }
         }
       },
