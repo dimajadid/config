@@ -4,8 +4,8 @@
     "ads": {
       "enabled": true,
       "mode_ads_banner": "facebook",
-      "mode_ads_interstitial": "admob",
-      "mode_ads_native": "admob",
+      "mode_ads_interstitial": "facebook",
+      "mode_ads_native": "facebook",
       "mode_ads_rewarded": "",
       "adcolony": {
         "adcolony_app_id": "appaa814d2551b94cdb81",
