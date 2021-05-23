@@ -3,9 +3,9 @@
     "version": "3.0.4",
     "ads": {
       "enabled": true,
-      "mode_ads_banner": "facebook",
-      "mode_ads_interstitial": "facebook",
-      "mode_ads_native": "facebook",
+      "mode_ads_banner": "unity",
+      "mode_ads_interstitial": "unity",
+      "mode_ads_native": "x",
       "mode_ads_rewarded": "",
       "adcolony": {
         "adcolony_app_id": "appaa814d2551b94cdb81",
@@ -33,7 +33,7 @@
         "facebook_native_id": "319279639587281_319478972900681"
       },
       "unity": {
-        "unity_app_id": "4100687",
+        "unity_app_id": "4140181",
         "unity_banner_id": "Banner_Android",
         "unity_interstitial_id": "Interstitial_Android",
         "unity_rewarded_id": ""
@@ -77,7 +77,7 @@
       "start": {
         "enabled": true,
         "loader": {
-          "enabled": true,
+          "enabled": false,
           "duration": 5000
         }
       },
@@ -90,13 +90,13 @@
           "_comment": "type = image, text, card",
           "type": "card",
           "loader": {
-            "enabled": true,
+            "enabled": false,
             "duration": 5000
           }
         }
       },
       "item": {
-        "native_ad": true,
+        "native_ad": false,
         "banner_ad": true,
         "interstitial_ad": true
       }
