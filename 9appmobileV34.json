@@ -2,7 +2,7 @@
   "config": {
     "version": "3.0.4",
     "ads": {
-      "enabled": true,
+      "enabled": false,
       "mode_ads_banner": "unity",
       "mode_ads_interstitial": "unity",
       "mode_ads_native": "x",
